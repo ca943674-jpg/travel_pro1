@@ -1,0 +1,22 @@
+#card_gallary{
+    height: 100%;
+    /* border:2px solid; */
+    padding: 10px;
+
+
+}
+#travel_button{
+    width: 200px;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(0, 73, 107);
+    color: white;
+    margin-top: 40px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px;
+     transition: transform 0.5s ease;
+}
+#travel_button:hover{
+     transform: scale(1.05);
+}
