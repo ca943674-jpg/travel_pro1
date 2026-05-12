@@ -5,6 +5,12 @@
 
 
 }
+#T_Gallery{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
 #travel_button{
     width: 200px;
     height: 35px;

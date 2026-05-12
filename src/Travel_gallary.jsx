@@ -9,6 +9,7 @@ import img7 from './assets/travel_galary7.jpg';
 import img8 from './assets/travel_galary8.jpg';
 import Travel_gallary1 from './Travel_gallary1';
 import './Travel_gallary.css';
+import Footer from './Footer';
 
 const Travel_gallary = () => {
     const data=[
@@ -46,6 +47,7 @@ const Travel_gallary = () => {
         </div>
         <br />
         <br />
+        <Footer/>
     </div>
   )
 }
