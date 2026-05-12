@@ -14,7 +14,7 @@ function Travelpro() {
         <Card className="border border-0">
           <Card.Body className="bg-white text-black rounded shadow" id="card_travel">
             <Card.Title className="d-flex justify-content-center">
-              <i class="fa-solid fa-book-atlas text-primary fs-2"></i>
+              <i className="fa-solid fa-book-atlas text-primary fs-2"></i>
             </Card.Title>
             <Card.Subtitle className="mb-2 text-muted text-center">
               Expert Guides
@@ -28,7 +28,7 @@ function Travelpro() {
         <Card className="border border-0">
           <Card.Body className="bg-white text-black rounded shadow" id="card_travel">
             <Card.Title className="d-flex justify-content-center">
-              <i class="fa-solid fa-anchor-circle-check text-primary fs-2"></i>
+              <i className="fa-solid fa-anchor-circle-check text-primary fs-2"></i>
             </Card.Title>
             <Card.Subtitle className="mb-2 text-muted text-center">
               Safe & Secure
@@ -41,7 +41,7 @@ function Travelpro() {
         <Card className="border border-0">
           <Card.Body className="bg-white text-black  rounded shadow" id="card_travel">
             <Card.Title className="d-flex justify-content-center ">
-              <i class="fa-regular fa-clock text-primary fs-2"></i>
+              <i className="fa-regular fa-clock text-primary fs-2"></i>
             </Card.Title>
             <Card.Subtitle className="mb-2 text-muted text-center">
               24/7 Support
@@ -54,7 +54,7 @@ function Travelpro() {
         <Card className="border border-0">
           <Card.Body className="bg-white text-black rounded shadow" id="card_travel">
             <Card.Title className="d-flex justify-content-center">
-              <i class="fa-solid fa-money-bill text-primary fs-2"></i>
+              <i className="fa-solid fa-money-bill text-primary fs-2"></i>
             </Card.Title>
             <Card.Subtitle className="mb-2 text-muted text-center">
               Best Prices

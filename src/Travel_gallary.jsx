@@ -41,7 +41,7 @@ const Travel_gallary = () => {
             <div style={{display:'flex',justifyContent:'center', alignItems:'center'}}>
                 <button id='travel_button' className='d-flex justify-content-center align-items-center gap-2'>
                     View Full Gallery
-                    <i class="fa-solid fa-arrow-right"></i>
+                    <i className="fa-solid fa-arrow-right"></i>
                 </button>
             </div>
         </div>
