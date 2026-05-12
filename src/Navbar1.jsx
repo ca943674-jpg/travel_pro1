@@ -10,7 +10,7 @@ function Navbar1() {
   return (
     <Navbar expand="lg" className="bg-body-tertiary">
       <Container>
-        <Navbar.Brand href="/" className="fw-bold ">Travel Pro</Navbar.Brand>
+        <Navbar.Brand href="/" className="fw-bold fs-2">Travel Pro</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="mx-auto nav1">
