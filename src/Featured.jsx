@@ -8,9 +8,9 @@ import Travelpro from "./Travelpro";
 
 function Featured() {
     const data = [
-        {id:1,name:"Udaypur adventure park", rating:4.8,  price:2999 , desc:"Thrilling rides, ziplining, camping, and unforgettable adventures amidst Udaipur’s landscapes." , days:14 , img:img1},
-        {id:2,name:"Jaimahal Rajsthan", rating:4.9,  price:3500 , desc:"Royal heritage hotel blending luxury, history, gardens, and Rajasthani elegance.x" , days:10 , img:img2},
-        {id:3,name:"Jatayu Earth’s Center Kerala", rating:4.9,  price:8000 , desc:"Giant bird sculpture, adventure park, nature and mythology destination." , days:12 , img:img3},
+        {id:1,name:"Udaypur adventure park", rating:4.8,  price:2999 , desc:"Thrilling rides, ziplining, camping, and unforgettable adventures amidst Udaipur’s landscapes." , days:3 , img:img1},
+        {id:2,name:"Jaimahal Rajsthan", rating:4.9,  price:3500 , desc:"Royal heritage hotel blending luxury, history, gardens, and Rajasthani elegance.x" , days:4 , img:img2},
+        {id:3,name:"Jatayu Earth’s Center Kerala", rating:4.9,  price:8000 , desc:"Giant bird sculpture, adventure park, nature and mythology destination." , days:8 , img:img3},
     ]
   return (
     <div id="box2">
