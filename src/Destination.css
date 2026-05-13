@@ -1,3 +1,7 @@
-#destination{
-    background-image: url(./assets/Suntemple.jpg);
+#destination-hero {
+    background-image: url(./assets/Destination.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 400px;
 }
